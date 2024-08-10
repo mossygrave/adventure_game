@@ -1,0 +1,17 @@
+Room number, Room name, description, doors, monster, Loot n/r/s, loot type
+1, Start Room, The starting point in your adventure. You see a short sword leaning against the wall. You will probably need that on your adventure., North or East, 0, 2, Starter sword
+5, Hallway, A plain hallway through the bunker. Old portraits decorate the walls., North or South,0, 0, N/A
+9, Monster Room, A goblin blocks your path! He doesn't seem very threatening but you will have to defeat him to pass through this room., East or South,1, 1, Random
+13, A Key!, A key hangs on the wall waiting for you to bring it on your adventure., East,0, 2, Key
+2, Monster Room, A goblin blocks your path! He doesn't seem very threatening but you will have to defeat him to pass through this room., East or West,1, 1, Random
+6, Treasure!, You see a treasure chest in the middle of the room. Hopefully there is something valuable inside., East,0, 2, Flute
+10, Hallway, A plain hallway through the bunker. Old portraits decorate the walls., North East or West,0, 0, N/A
+14, Monster Room, A goblin blocks your path! He doesn't seem very threatening but you will have to defeat him to pass through this room., East South or West,1, 1, Random 
+3, Hallway, A plain hallway through the bunker. Old portraits decorate the walls., North East or West,0, 0, N/A
+7, Monster Room, A goblin blocks your path! He doesn't seem very threatening but you will have to defeat him to pass through this room., East South or West,1, 1, Random
+11, Kitchen, You have found yourself in a kitchen. I wouldn't reccommend eating anything in here but a glowing potion sitting on the counter calls to you., North East or West,0, 2, Potion 
+15, Treasure!, You see a treasure chest in the middle of the room. Hopefully there is something valuable inside., South or West,0, 2, Great Sword 
+4, Library, You find yourself in a surprisingly clean and well kept library. A plush chair surrounded by bookshelves sits in the center of the room., North or West,0, 2, Book
+8, Hallway, A plain hallway through the bunker. Old portraits decorate the walls., North South or West,0, 0, N/A
+12, Boss Room, An ogre blocks the way! You will have to defeat him to pass through this room. Behind him you see a closed door he seems to be guarding., South or West North if they have the key,2, 1, Random
+16, Escape!, You have reached the end! Congratulations on completing the game!, None,0, 0, N/A
