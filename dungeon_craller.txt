@@ -1,0 +1,15 @@
+Final Programming Project Plan
+
+Basics
+    The user will travel through different rooms in the dungeon, exploring, collecting items, and fighting monsters
+    Each monster will have different attacks or abilities (attack patterns)
+    I'll use a randomizer and a loop to count the number of rounds so monsters can power up attacks
+    The goal is to escape the dungeon.
+
+Keywords
+    Loot: Loot the current room and return items or gold. Used after defeating a monster or entering a room with a chest 
+    Attack: Attack the current monster (Read the item dictionary and return attack power. Random chance to crit)
+    Block: Defend against an attack from an enemy (Deflects a percentage of an attack) (Leveling system to determine percentage?)
+    Stats: See your current stats, equipped weapons, atk pwr, health etc
+    Use Item: Prints a list of usable items in your inventory with what they do
+    Move: Shows what directions the player can go and allows them to choose one (Store and recount previous move)
